@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# render output — hasil MP4 ada di out/, jalankan render untuk generate ulang
+# out/
+
+# macOS
+.DS_Store
+
+# editor
+.vscode/
+.idea/
+
+# env
+.env
+.env.local

@@ -1,0 +1,1511 @@
+{
+  "text": " Saat anak tantrum, jangan buruh buruh membuatnya berhenti menanyis. Karena saat emosi anak sedang memuncak, kemampuan mereka untuk berfikir dan mengendalikan diri juga sedang menurun. Itu lah kenapa saat tantrum, anak sering tidak mempandinasi hati, dijelaskan, atau diminta untuk berfikir. Bukan karena dia tidak mau menengarkan, tapi karena saat itu dia memang belum siap menerima apa yang kita katakan. Bayangkan orang diwasa sedang sangat marah. Lalu ada emominta kita berfikir jerni dan mendengarkan nasihat panjang. Sulitkan, jadi ketika anak sedang tantrum, yang sebenarnya sedang kita hadapi bukan anak yang sedang menjari masalah. Kita sedang berhadapan dengan emosi yang terlalu besar untuk tubuh dan kemampuan anak saat itu. Setelah emosinya meredah, berulah anak lebih siap untuk belajar tentang apa interjadi. Jadi bukan berarti tantrum harus dibiarkan. Kita tetap memberi batas pada perilakunya, tapi tidak memaksa emosinya berhenti sebelum iya siap. Karena menangis bukan masalah yang harus selalu segera dihentikan. Kadang, itu adalah cara tubuh anak mengeluarkan emosi yang belum bisa iakelola sendiri.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.56,
+      "text": " Saat anak tantrum, jangan buruh buruh membuatnya berhenti menanyis.",
+      "tokens": [
+        50364,
+        6299,
+        267,
+        38042,
+        12095,
+        6247,
+        11,
+        45107,
+        2779,
+        3232,
+        2779,
+        3232,
+        1334,
+        45143,
+        7457,
+        5948,
+        71,
+        23012,
+        1706,
+        1325,
+        271,
+        13,
+        50548
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2956715306491717,
+      "compression_ratio": 1.774703557312253,
+      "no_speech_prob": 0.011846056208014488,
+      "words": [
+        {
+          "word": " Saat",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.6695889532566071
+        },
+        {
+          "word": " anak",
+          "start": 0.32,
+          "end": 0.5,
+          "probability": 0.9628405570983887
+        },
+        {
+          "word": " tantrum,",
+          "start": 0.5,
+          "end": 0.94,
+          "probability": 0.9369565844535828
+        },
+        {
+          "word": " jangan",
+          "start": 1.36,
+          "end": 1.5,
+          "probability": 0.8701353073120117
+        },
+        {
+          "word": " buruh",
+          "start": 1.5,
+          "end": 1.86,
+          "probability": 0.5134772658348083
+        },
+        {
+          "word": " buruh",
+          "start": 1.86,
+          "end": 2.08,
+          "probability": 0.7244345992803574
+        },
+        {
+          "word": " membuatnya",
+          "start": 2.08,
+          "end": 2.6,
+          "probability": 0.9061702489852905
+        },
+        {
+          "word": " berhenti",
+          "start": 2.6,
+          "end": 2.98,
+          "probability": 0.9677663048108419
+        },
+        {
+          "word": " menanyis.",
+          "start": 2.98,
+          "end": 3.56,
+          "probability": 0.7275266448656718
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.96,
+      "end": 9.66,
+      "text": " Karena saat emosi anak sedang memuncak, kemampuan mereka untuk berfikir dan mengendalikan diri juga sedang menurun.",
+      "tokens": [
+        50548,
+        45724,
+        23369,
+        846,
+        21521,
+        38042,
+        9643,
+        656,
+        1334,
+        409,
+        27481,
+        11,
+        803,
+        76,
+        1215,
+        6139,
+        23171,
+        12711,
+        5948,
+        31230,
+        347,
+        3277,
+        15330,
+        521,
+        304,
+        16048,
+        4746,
+        72,
+        14462,
+        9643,
+        656,
+        1706,
+        374,
+        409,
+        13,
+        50860
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2956715306491717,
+      "compression_ratio": 1.774703557312253,
+      "no_speech_prob": 0.011846056208014488,
+      "words": [
+        {
+          "word": " Karena",
+          "start": 3.96,
+          "end": 4.16,
+          "probability": 0.8484779596328735
+        },
+        {
+          "word": " saat",
+          "start": 4.16,
+          "end": 4.38,
+          "probability": 0.8396179676055908
+        },
+        {
+          "word": " emosi",
+          "start": 4.38,
+          "end": 4.78,
+          "probability": 0.7792853713035583
+        },
+        {
+          "word": " anak",
+          "start": 4.78,
+          "end": 5.04,
+          "probability": 0.9781877994537354
+        },
+        {
+          "word": " sedang",
+          "start": 5.04,
+          "end": 5.3,
+          "probability": 0.8446590602397919
+        },
+        {
+          "word": " memuncak,",
+          "start": 5.3,
+          "end": 5.76,
+          "probability": 0.7000387211640676
+        },
+        {
+          "word": " kemampuan",
+          "start": 6.1,
+          "end": 6.42,
+          "probability": 0.959567204117775
+        },
+        {
+          "word": " mereka",
+          "start": 6.42,
+          "end": 6.64,
+          "probability": 0.9791750311851501
+        },
+        {
+          "word": " untuk",
+          "start": 6.64,
+          "end": 6.92,
+          "probability": 0.9893478155136108
+        },
+        {
+          "word": " berfikir",
+          "start": 6.92,
+          "end": 7.48,
+          "probability": 0.7678665618101755
+        },
+        {
+          "word": " dan",
+          "start": 7.48,
+          "end": 7.64,
+          "probability": 0.9631947875022888
+        },
+        {
+          "word": " mengendalikan",
+          "start": 7.64,
+          "end": 8.22,
+          "probability": 0.7264497429132462
+        },
+        {
+          "word": " diri",
+          "start": 8.22,
+          "end": 8.58,
+          "probability": 0.9941641688346863
+        },
+        {
+          "word": " juga",
+          "start": 8.58,
+          "end": 8.96,
+          "probability": 0.890201210975647
+        },
+        {
+          "word": " sedang",
+          "start": 8.96,
+          "end": 9.32,
+          "probability": 0.9875834584236145
+        },
+        {
+          "word": " menurun.",
+          "start": 9.32,
+          "end": 9.66,
+          "probability": 0.6322461068630219
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.22,
+      "end": 16.44,
+      "text": " Itu lah kenapa saat tantrum, anak sering tidak mempandinasi hati, dijelaskan, atau diminta untuk berfikir.",
+      "tokens": [
+        50860,
+        39109,
+        26532,
+        18787,
+        7961,
+        23369,
+        12095,
+        6247,
+        11,
+        38042,
+        816,
+        278,
+        18943,
+        1334,
+        79,
+        474,
+        259,
+        8483,
+        2385,
+        72,
+        11,
+        47709,
+        338,
+        3863,
+        282,
+        11,
+        22823,
+        5013,
+        16071,
+        12711,
+        5948,
+        31230,
+        347,
+        13,
+        51196
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2956715306491717,
+      "compression_ratio": 1.774703557312253,
+      "no_speech_prob": 0.011846056208014488,
+      "words": [
+        {
+          "word": " Itu",
+          "start": 10.22,
+          "end": 10.4,
+          "probability": 0.4945802390575409
+        },
+        {
+          "word": " lah",
+          "start": 10.4,
+          "end": 10.54,
+          "probability": 0.5714044570922852
+        },
+        {
+          "word": " kenapa",
+          "start": 10.54,
+          "end": 10.88,
+          "probability": 0.9916214346885681
+        },
+        {
+          "word": " saat",
+          "start": 10.88,
+          "end": 11.14,
+          "probability": 0.907187819480896
+        },
+        {
+          "word": " tantrum,",
+          "start": 11.14,
+          "end": 11.66,
+          "probability": 0.9982655048370361
+        },
+        {
+          "word": " anak",
+          "start": 11.9,
+          "end": 12.02,
+          "probability": 0.9942131638526917
+        },
+        {
+          "word": " sering",
+          "start": 12.02,
+          "end": 12.3,
+          "probability": 0.9282976984977722
+        },
+        {
+          "word": " tidak",
+          "start": 12.3,
+          "end": 12.58,
+          "probability": 0.977462649345398
+        },
+        {
+          "word": " mempandinasi",
+          "start": 12.58,
+          "end": 13.34,
+          "probability": 0.6179443627595902
+        },
+        {
+          "word": " hati,",
+          "start": 13.34,
+          "end": 13.74,
+          "probability": 0.9783979654312134
+        },
+        {
+          "word": " dijelaskan,",
+          "start": 14.02,
+          "end": 14.62,
+          "probability": 0.9292077273130417
+        },
+        {
+          "word": " atau",
+          "start": 15.0,
+          "end": 15.22,
+          "probability": 0.9896422028541565
+        },
+        {
+          "word": " diminta",
+          "start": 15.22,
+          "end": 15.64,
+          "probability": 0.8130856156349182
+        },
+        {
+          "word": " untuk",
+          "start": 15.64,
+          "end": 15.86,
+          "probability": 0.9966105818748474
+        },
+        {
+          "word": " berfikir.",
+          "start": 15.86,
+          "end": 16.44,
+          "probability": 0.9345933596293131
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.84,
+      "end": 22.96,
+      "text": " Bukan karena dia tidak mau menengarkan, tapi karena saat itu dia memang belum siap menerima apa yang kita katakan.",
+      "tokens": [
+        51196,
+        363,
+        22324,
+        27173,
+        6801,
+        18943,
+        22074,
+        1706,
+        1501,
+        45173,
+        11,
+        23901,
+        27173,
+        23369,
+        9032,
+        6801,
+        39290,
+        48532,
+        1511,
+        569,
+        1706,
+        260,
+        4775,
+        15951,
+        5581,
+        8965,
+        16536,
+        14910,
+        13,
+        51528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2956715306491717,
+      "compression_ratio": 1.774703557312253,
+      "no_speech_prob": 0.011846056208014488,
+      "words": [
+        {
+          "word": " Bukan",
+          "start": 16.84,
+          "end": 17.1,
+          "probability": 0.8965404033660889
+        },
+        {
+          "word": " karena",
+          "start": 17.1,
+          "end": 17.36,
+          "probability": 0.98893141746521
+        },
+        {
+          "word": " dia",
+          "start": 17.36,
+          "end": 17.58,
+          "probability": 0.9637651443481445
+        },
+        {
+          "word": " tidak",
+          "start": 17.58,
+          "end": 17.78,
+          "probability": 0.9856289029121399
+        },
+        {
+          "word": " mau",
+          "start": 17.78,
+          "end": 18.02,
+          "probability": 0.7589228749275208
+        },
+        {
+          "word": " menengarkan,",
+          "start": 18.02,
+          "end": 18.44,
+          "probability": 0.7961761951446533
+        },
+        {
+          "word": " tapi",
+          "start": 19.04,
+          "end": 19.26,
+          "probability": 0.9803696274757385
+        },
+        {
+          "word": " karena",
+          "start": 19.26,
+          "end": 19.5,
+          "probability": 0.9698992371559143
+        },
+        {
+          "word": " saat",
+          "start": 19.5,
+          "end": 19.74,
+          "probability": 0.9947878122329712
+        },
+        {
+          "word": " itu",
+          "start": 19.74,
+          "end": 20.14,
+          "probability": 0.9945902824401855
+        },
+        {
+          "word": " dia",
+          "start": 20.14,
+          "end": 20.54,
+          "probability": 0.502259373664856
+        },
+        {
+          "word": " memang",
+          "start": 20.54,
+          "end": 20.68,
+          "probability": 0.8979445695877075
+        },
+        {
+          "word": " belum",
+          "start": 20.68,
+          "end": 21.06,
+          "probability": 0.981624186038971
+        },
+        {
+          "word": " siap",
+          "start": 21.06,
+          "end": 21.46,
+          "probability": 0.9577319622039795
+        },
+        {
+          "word": " menerima",
+          "start": 21.46,
+          "end": 21.82,
+          "probability": 0.7656612992286682
+        },
+        {
+          "word": " apa",
+          "start": 21.82,
+          "end": 22.22,
+          "probability": 0.9755869507789612
+        },
+        {
+          "word": " yang",
+          "start": 22.22,
+          "end": 22.38,
+          "probability": 0.9984225034713745
+        },
+        {
+          "word": " kita",
+          "start": 22.38,
+          "end": 22.58,
+          "probability": 0.9938709735870361
+        },
+        {
+          "word": " katakan.",
+          "start": 22.58,
+          "end": 22.96,
+          "probability": 0.9258337020874023
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 23.64,
+      "end": 25.94,
+      "text": " Bayangkan orang diwasa sedang sangat marah.",
+      "tokens": [
+        51528,
+        7840,
+        656,
+        5225,
+        17481,
+        1026,
+        6569,
+        64,
+        9643,
+        656,
+        31917,
+        1849,
+        545,
+        13,
+        51668
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2956715306491717,
+      "compression_ratio": 1.774703557312253,
+      "no_speech_prob": 0.011846056208014488,
+      "words": [
+        {
+          "word": " Bayangkan",
+          "start": 23.64,
+          "end": 24.1,
+          "probability": 0.8668118317921957
+        },
+        {
+          "word": " orang",
+          "start": 24.1,
+          "end": 24.34,
+          "probability": 0.9841572642326355
+        },
+        {
+          "word": " diwasa",
+          "start": 24.34,
+          "end": 24.8,
+          "probability": 0.561996857325236
+        },
+        {
+          "word": " sedang",
+          "start": 24.8,
+          "end": 25.12,
+          "probability": 0.9900852143764496
+        },
+        {
+          "word": " sangat",
+          "start": 25.12,
+          "end": 25.48,
+          "probability": 0.6469295024871826
+        },
+        {
+          "word": " marah.",
+          "start": 25.48,
+          "end": 25.94,
+          "probability": 0.8807828724384308
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2594,
+      "start": 25.94,
+      "end": 30.16,
+      "text": " Lalu ada emominta kita berfikir jerni dan mendengarkan nasihat panjang.",
+      "tokens": [
+        50372,
+        441,
+        4929,
+        11063,
+        846,
+        298,
+        16071,
+        8965,
+        5948,
+        31230,
+        347,
+        20160,
+        3722,
+        3277,
+        31161,
+        1501,
+        45173,
+        5382,
+        41650,
+        2462,
+        26925,
+        13,
+        50592
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21011065697485162,
+      "compression_ratio": 1.7405857740585775,
+      "no_speech_prob": 0.0011291413102298975,
+      "words": [
+        {
+          "word": " Lalu",
+          "start": 25.94,
+          "end": 26.4,
+          "probability": 0.6792463809251785
+        },
+        {
+          "word": " ada",
+          "start": 26.4,
+          "end": 26.62,
+          "probability": 0.9887992739677429
+        },
+        {
+          "word": " emominta",
+          "start": 26.62,
+          "end": 27.08,
+          "probability": 0.6561338851849238
+        },
+        {
+          "word": " kita",
+          "start": 27.08,
+          "end": 27.32,
+          "probability": 0.9814522862434387
+        },
+        {
+          "word": " berfikir",
+          "start": 27.32,
+          "end": 27.8,
+          "probability": 0.8391910592714945
+        },
+        {
+          "word": " jerni",
+          "start": 27.8,
+          "end": 28.2,
+          "probability": 0.6975714266300201
+        },
+        {
+          "word": " dan",
+          "start": 28.2,
+          "end": 28.78,
+          "probability": 0.7691256999969482
+        },
+        {
+          "word": " mendengarkan",
+          "start": 28.78,
+          "end": 29.22,
+          "probability": 0.8847161928812662
+        },
+        {
+          "word": " nasihat",
+          "start": 29.22,
+          "end": 29.7,
+          "probability": 0.9508808553218842
+        },
+        {
+          "word": " panjang.",
+          "start": 29.7,
+          "end": 30.16,
+          "probability": 0.9840844571590424
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2594,
+      "start": 30.62,
+      "end": 37.34,
+      "text": " Sulitkan, jadi ketika anak sedang tantrum, yang sebenarnya sedang kita hadapi bukan anak yang sedang menjari masalah.",
+      "tokens": [
+        50592,
+        35897,
+        270,
+        5225,
+        11,
+        19399,
+        14979,
+        5439,
+        38042,
+        9643,
+        656,
+        12095,
+        6247,
+        11,
+        5581,
+        46031,
+        38039,
+        9643,
+        656,
+        8965,
+        632,
+        35891,
+        31794,
+        38042,
+        5581,
+        9643,
+        656,
+        1706,
+        73,
+        3504,
+        2300,
+        16434,
+        13,
+        50952
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21011065697485162,
+      "compression_ratio": 1.7405857740585775,
+      "no_speech_prob": 0.0011291413102298975,
+      "words": [
+        {
+          "word": " Sulitkan,",
+          "start": 30.62,
+          "end": 31.2,
+          "probability": 0.7544422248999277
+        },
+        {
+          "word": " jadi",
+          "start": 31.76,
+          "end": 32.24,
+          "probability": 0.7135299444198608
+        },
+        {
+          "word": " ketika",
+          "start": 32.24,
+          "end": 32.72,
+          "probability": 0.9515075087547302
+        },
+        {
+          "word": " anak",
+          "start": 32.72,
+          "end": 32.94,
+          "probability": 0.991938054561615
+        },
+        {
+          "word": " sedang",
+          "start": 32.94,
+          "end": 33.22,
+          "probability": 0.9622983932495117
+        },
+        {
+          "word": " tantrum,",
+          "start": 33.22,
+          "end": 33.64,
+          "probability": 0.774937778711319
+        },
+        {
+          "word": " yang",
+          "start": 33.94,
+          "end": 34.04,
+          "probability": 0.9821289777755737
+        },
+        {
+          "word": " sebenarnya",
+          "start": 34.04,
+          "end": 34.52,
+          "probability": 0.9856095016002655
+        },
+        {
+          "word": " sedang",
+          "start": 34.52,
+          "end": 34.8,
+          "probability": 0.9948030412197113
+        },
+        {
+          "word": " kita",
+          "start": 34.8,
+          "end": 34.98,
+          "probability": 0.996364176273346
+        },
+        {
+          "word": " hadapi",
+          "start": 34.98,
+          "end": 35.36,
+          "probability": 0.8279523849487305
+        },
+        {
+          "word": " bukan",
+          "start": 35.36,
+          "end": 35.66,
+          "probability": 0.9519937634468079
+        },
+        {
+          "word": " anak",
+          "start": 35.66,
+          "end": 36.08,
+          "probability": 0.9984048008918762
+        },
+        {
+          "word": " yang",
+          "start": 36.08,
+          "end": 36.3,
+          "probability": 0.9915562868118286
+        },
+        {
+          "word": " sedang",
+          "start": 36.3,
+          "end": 36.6,
+          "probability": 0.9911415874958038
+        },
+        {
+          "word": " menjari",
+          "start": 36.6,
+          "end": 36.9,
+          "probability": 0.7803136905034384
+        },
+        {
+          "word": " masalah.",
+          "start": 36.9,
+          "end": 37.34,
+          "probability": 0.9662264287471771
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2594,
+      "start": 37.84,
+      "end": 43.26,
+      "text": " Kita sedang berhadapan dengan emosi yang terlalu besar untuk tubuh dan kemampuan anak saat itu.",
+      "tokens": [
+        50952,
+        27329,
+        9643,
+        656,
+        5948,
+        26326,
+        3140,
+        13877,
+        846,
+        21521,
+        5581,
+        1796,
+        75,
+        4929,
+        48327,
+        12711,
+        10809,
+        3232,
+        3277,
+        803,
+        76,
+        1215,
+        6139,
+        38042,
+        23369,
+        9032,
+        13,
+        51252
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21011065697485162,
+      "compression_ratio": 1.7405857740585775,
+      "no_speech_prob": 0.0011291413102298975,
+      "words": [
+        {
+          "word": " Kita",
+          "start": 37.84,
+          "end": 38.16,
+          "probability": 0.9565317034721375
+        },
+        {
+          "word": " sedang",
+          "start": 38.16,
+          "end": 38.44,
+          "probability": 0.996893048286438
+        },
+        {
+          "word": " berhadapan",
+          "start": 38.44,
+          "end": 38.9,
+          "probability": 0.8554606636365255
+        },
+        {
+          "word": " dengan",
+          "start": 38.9,
+          "end": 39.2,
+          "probability": 0.9934470057487488
+        },
+        {
+          "word": " emosi",
+          "start": 39.2,
+          "end": 39.68,
+          "probability": 0.8317492008209229
+        },
+        {
+          "word": " yang",
+          "start": 39.68,
+          "end": 39.86,
+          "probability": 0.9937769174575806
+        },
+        {
+          "word": " terlalu",
+          "start": 39.86,
+          "end": 40.3,
+          "probability": 0.9906376004219055
+        },
+        {
+          "word": " besar",
+          "start": 40.3,
+          "end": 40.7,
+          "probability": 0.9986969828605652
+        },
+        {
+          "word": " untuk",
+          "start": 40.7,
+          "end": 41.36,
+          "probability": 0.8236761093139648
+        },
+        {
+          "word": " tubuh",
+          "start": 41.36,
+          "end": 41.8,
+          "probability": 0.9783405661582947
+        },
+        {
+          "word": " dan",
+          "start": 41.8,
+          "end": 41.96,
+          "probability": 0.9809823632240295
+        },
+        {
+          "word": " kemampuan",
+          "start": 41.96,
+          "end": 42.4,
+          "probability": 0.9500490576028824
+        },
+        {
+          "word": " anak",
+          "start": 42.4,
+          "end": 42.7,
+          "probability": 0.9981745481491089
+        },
+        {
+          "word": " saat",
+          "start": 42.7,
+          "end": 42.94,
+          "probability": 0.9574044942855835
+        },
+        {
+          "word": " itu.",
+          "start": 42.94,
+          "end": 43.26,
+          "probability": 0.9381691813468933
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2594,
+      "start": 43.92,
+      "end": 48.48,
+      "text": " Setelah emosinya meredah, berulah anak lebih siap untuk belajar tentang apa interjadi.",
+      "tokens": [
+        51252,
+        8928,
+        338,
+        545,
+        846,
+        329,
+        28507,
+        3551,
+        292,
+        545,
+        11,
+        5948,
+        425,
+        545,
+        38042,
+        20451,
+        1511,
+        569,
+        12711,
+        312,
+        875,
+        10150,
+        43575,
+        15951,
+        728,
+        73,
+        5688,
+        13,
+        51516
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21011065697485162,
+      "compression_ratio": 1.7405857740585775,
+      "no_speech_prob": 0.0011291413102298975,
+      "words": [
+        {
+          "word": " Setelah",
+          "start": 43.92,
+          "end": 44.34,
+          "probability": 0.94512939453125
+        },
+        {
+          "word": " emosinya",
+          "start": 44.34,
+          "end": 44.74,
+          "probability": 0.9332264463106791
+        },
+        {
+          "word": " meredah,",
+          "start": 44.74,
+          "end": 45.26,
+          "probability": 0.7034541567166647
+        },
+        {
+          "word": " berulah",
+          "start": 45.54,
+          "end": 45.78,
+          "probability": 0.7478819290796915
+        },
+        {
+          "word": " anak",
+          "start": 45.78,
+          "end": 45.98,
+          "probability": 0.9976691603660583
+        },
+        {
+          "word": " lebih",
+          "start": 45.98,
+          "end": 46.24,
+          "probability": 0.9626343846321106
+        },
+        {
+          "word": " siap",
+          "start": 46.24,
+          "end": 46.6,
+          "probability": 0.9874691069126129
+        },
+        {
+          "word": " untuk",
+          "start": 46.6,
+          "end": 46.82,
+          "probability": 0.9924587607383728
+        },
+        {
+          "word": " belajar",
+          "start": 46.82,
+          "end": 47.22,
+          "probability": 0.9550214807192484
+        },
+        {
+          "word": " tentang",
+          "start": 47.22,
+          "end": 47.52,
+          "probability": 0.9893074631690979
+        },
+        {
+          "word": " apa",
+          "start": 47.52,
+          "end": 47.94,
+          "probability": 0.9789549112319946
+        },
+        {
+          "word": " interjadi.",
+          "start": 47.94,
+          "end": 48.48,
+          "probability": 0.7342958847681681
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2594,
+      "start": 49.32,
+      "end": 51.3,
+      "text": " Jadi bukan berarti tantrum harus dibiarkan.",
+      "tokens": [
+        51516,
+        21662,
+        31794,
+        5948,
+        40155,
+        12095,
+        6247,
+        28219,
+        23064,
+        72,
+        45173,
+        13,
+        51656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21011065697485162,
+      "compression_ratio": 1.7405857740585775,
+      "no_speech_prob": 0.0011291413102298975,
+      "words": [
+        {
+          "word": " Jadi",
+          "start": 49.32,
+          "end": 49.48,
+          "probability": 0.88688725233078
+        },
+        {
+          "word": " bukan",
+          "start": 49.48,
+          "end": 49.76,
+          "probability": 0.7090556621551514
+        },
+        {
+          "word": " berarti",
+          "start": 49.76,
+          "end": 50.18,
+          "probability": 0.9876782596111298
+        },
+        {
+          "word": " tantrum",
+          "start": 50.18,
+          "end": 50.6,
+          "probability": 0.9907823801040649
+        },
+        {
+          "word": " harus",
+          "start": 50.6,
+          "end": 50.86,
+          "probability": 0.9956839084625244
+        },
+        {
+          "word": " dibiarkan.",
+          "start": 50.86,
+          "end": 51.3,
+          "probability": 0.7539466619491577
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5130,
+      "start": 51.86,
+      "end": 57.24,
+      "text": " Kita tetap memberi batas pada perilakunya, tapi tidak memaksa emosinya berhenti sebelum iya siap.",
+      "tokens": [
+        50392,
+        27329,
+        23319,
+        569,
+        4006,
+        72,
+        7362,
+        296,
+        26069,
+        680,
+        388,
+        514,
+        27521,
+        11,
+        23901,
+        18943,
+        1334,
+        5461,
+        64,
+        846,
+        329,
+        28507,
+        5948,
+        71,
+        23012,
+        46122,
+        449,
+        741,
+        3016,
+        1511,
+        569,
+        13,
+        50680
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24193618870988676,
+      "compression_ratio": 1.5460122699386503,
+      "no_speech_prob": 0.4984252154827118,
+      "words": [
+        {
+          "word": " Kita",
+          "start": 51.8,
+          "end": 52.18,
+          "probability": 0.5701603889465332
+        },
+        {
+          "word": " tetap",
+          "start": 52.18,
+          "end": 52.48,
+          "probability": 0.9901160001754761
+        },
+        {
+          "word": " memberi",
+          "start": 52.48,
+          "end": 52.78,
+          "probability": 0.6397617310285568
+        },
+        {
+          "word": " batas",
+          "start": 52.78,
+          "end": 53.1,
+          "probability": 0.9103627800941467
+        },
+        {
+          "word": " pada",
+          "start": 53.1,
+          "end": 53.34,
+          "probability": 0.9952284097671509
+        },
+        {
+          "word": " perilakunya,",
+          "start": 53.34,
+          "end": 53.94,
+          "probability": 0.6261397153139114
+        },
+        {
+          "word": " tapi",
+          "start": 54.36,
+          "end": 54.58,
+          "probability": 0.9635520577430725
+        },
+        {
+          "word": " tidak",
+          "start": 54.58,
+          "end": 54.84,
+          "probability": 0.9875431060791016
+        },
+        {
+          "word": " memaksa",
+          "start": 54.84,
+          "end": 55.34,
+          "probability": 0.9632767836252848
+        },
+        {
+          "word": " emosinya",
+          "start": 55.34,
+          "end": 55.76,
+          "probability": 0.8240475654602051
+        },
+        {
+          "word": " berhenti",
+          "start": 55.76,
+          "end": 56.24,
+          "probability": 0.982719361782074
+        },
+        {
+          "word": " sebelum",
+          "start": 56.24,
+          "end": 56.72,
+          "probability": 0.9891147017478943
+        },
+        {
+          "word": " iya",
+          "start": 56.72,
+          "end": 56.92,
+          "probability": 0.509321853518486
+        },
+        {
+          "word": " siap.",
+          "start": 56.92,
+          "end": 57.24,
+          "probability": 0.8095973432064056
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5130,
+      "start": 57.7,
+      "end": 61.22,
+      "text": " Karena menangis bukan masalah yang harus selalu segera dihentikan.",
+      "tokens": [
+        50680,
+        45724,
+        1706,
+        656,
+        271,
+        31794,
+        2300,
+        16434,
+        5581,
+        28219,
+        5851,
+        4929,
+        369,
+        1321,
+        64,
+        1026,
+        71,
+        317,
+        16048,
+        13,
+        50892
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24193618870988676,
+      "compression_ratio": 1.5460122699386503,
+      "no_speech_prob": 0.4984252154827118,
+      "words": [
+        {
+          "word": " Karena",
+          "start": 57.7,
+          "end": 57.96,
+          "probability": 0.4670867919921875
+        },
+        {
+          "word": " menangis",
+          "start": 57.96,
+          "end": 58.54,
+          "probability": 0.9830836455027262
+        },
+        {
+          "word": " bukan",
+          "start": 58.54,
+          "end": 58.86,
+          "probability": 0.7478640079498291
+        },
+        {
+          "word": " masalah",
+          "start": 58.86,
+          "end": 59.28,
+          "probability": 0.9871519804000854
+        },
+        {
+          "word": " yang",
+          "start": 59.28,
+          "end": 59.5,
+          "probability": 0.9965792298316956
+        },
+        {
+          "word": " harus",
+          "start": 59.5,
+          "end": 59.9,
+          "probability": 0.9653551578521729
+        },
+        {
+          "word": " selalu",
+          "start": 59.9,
+          "end": 60.4,
+          "probability": 0.9807663559913635
+        },
+        {
+          "word": " segera",
+          "start": 60.4,
+          "end": 60.76,
+          "probability": 0.9339994192123413
+        },
+        {
+          "word": " dihentikan.",
+          "start": 60.76,
+          "end": 61.22,
+          "probability": 0.9453016966581345
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5130,
+      "start": 61.92,
+      "end": 67.04,
+      "text": " Kadang, itu adalah cara tubuh anak mengeluarkan emosi yang belum bisa iakelola sendiri.",
+      "tokens": [
+        50892,
+        32248,
+        656,
+        11,
+        9032,
+        23555,
+        10962,
+        10809,
+        3232,
+        38042,
+        15330,
+        34813,
+        45173,
+        846,
+        21521,
+        5581,
+        48532,
+        14386,
+        20721,
+        7124,
+        4711,
+        39536,
+        13,
+        51172
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24193618870988676,
+      "compression_ratio": 1.5460122699386503,
+      "no_speech_prob": 0.4984252154827118,
+      "words": [
+        {
+          "word": " Kadang,",
+          "start": 61.92,
+          "end": 62.38,
+          "probability": 0.9330341517925262
+        },
+        {
+          "word": " itu",
+          "start": 62.56,
+          "end": 62.72,
+          "probability": 0.9826683402061462
+        },
+        {
+          "word": " adalah",
+          "start": 62.72,
+          "end": 62.92,
+          "probability": 0.9871849417686462
+        },
+        {
+          "word": " cara",
+          "start": 62.92,
+          "end": 63.26,
+          "probability": 0.9838964939117432
+        },
+        {
+          "word": " tubuh",
+          "start": 63.26,
+          "end": 63.64,
+          "probability": 0.9533852934837341
+        },
+        {
+          "word": " anak",
+          "start": 63.64,
+          "end": 63.88,
+          "probability": 0.9820521473884583
+        },
+        {
+          "word": " mengeluarkan",
+          "start": 63.88,
+          "end": 64.34,
+          "probability": 0.8707028230031332
+        },
+        {
+          "word": " emosi",
+          "start": 64.34,
+          "end": 64.94,
+          "probability": 0.9316368401050568
+        },
+        {
+          "word": " yang",
+          "start": 64.94,
+          "end": 65.5,
+          "probability": 0.9512122869491577
+        },
+        {
+          "word": " belum",
+          "start": 65.5,
+          "end": 65.74,
+          "probability": 0.9958444237709045
+        },
+        {
+          "word": " bisa",
+          "start": 65.74,
+          "end": 66.1,
+          "probability": 0.9934572577476501
+        },
+        {
+          "word": " iakelola",
+          "start": 66.1,
+          "end": 66.62,
+          "probability": 0.5233521858851115
+        },
+        {
+          "word": " sendiri.",
+          "start": 66.62,
+          "end": 67.04,
+          "probability": 0.9847529530525208
+        }
+      ]
+    }
+  ],
+  "language": "id"
+}
