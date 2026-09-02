@@ -4,8 +4,11 @@
   "main": "index.js",
   "scripts": {
     "start": "npx remotion studio",
-    "build": "npx remotion render MotionShape out/motion-shape.mp4",
-    "preview": "npx remotion studio src/index.ts"
+    "preview": "npx remotion studio src/index.ts",
+    "build": "npx remotion render Reel1VideoEnhanced out/reel-1-enhanced.mp4 --concurrency=4",
+    "build:original": "npx remotion render Reel1Video out/reel-1.mp4 --concurrency=4",
+    "build:enhanced": "npx remotion render Reel1VideoEnhanced out/reel-1-enhanced.mp4 --concurrency=4",
+    "typecheck": "tsc --noEmit"
   },
   "keywords": [],
   "author": "",
